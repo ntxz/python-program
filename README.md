@@ -1,1 +1,1 @@
-# python-program
+简单实用的python程序
