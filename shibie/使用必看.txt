@@ -1,0 +1,4 @@
+model.ckpt为训练完的模型check也是
+tensorflow必须为1版本的
+需要添加数据集tutorials到TensorFlow的文件夹下，具体可百度或看博客路径数据集超星网盘电脑软件---python里有
+参照的这篇博客：https://blog.csdn.net/qq_38269418/article/details/78991649?depth_1-
