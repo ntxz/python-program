@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/hp/Desktop/shibie/model.ckpt"
+all_model_checkpoint_paths: "C:/Users/hp/Desktop/shibie/model.ckpt"
